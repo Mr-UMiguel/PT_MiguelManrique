@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "id": "Local_bank_sight_cash",
+      "yield": 0.1,
+      "wal": 0,
+      "liquidity": 1.0,
+      "haircut": 1,
+      "internal_cap": 0.3
+    },
+    {
+      "id": "COP_money_market_fund",
+      "yield": 0.095,
+      "wal": 2,
+      "liquidity": 1.0,
+      "haircut": 0.995,
+      "internal_cap": 0.3
+    },
+    {
+      "id": "TES_0to90d",
+      "yield": 0.086,
+      "wal": 45,
+      "liquidity": 0.92,
+      "haircut": 0.8,
+      "internal_cap": 0.4
+    },
+    {
+      "id": "Collateralized_COP_repo",
+      "yield": 0.098,
+      "wal": 3,
+      "liquidity": 1.0,
+      "haircut": 1,
+      "internal_cap": 0.25
+    },
+    {
+      "id": "COP_term_deposit_30d",
+      "yield": 0.105,
+      "wal": 30,
+      "liquidity": 0.85,
+      "haircut": 0.985,
+      "internal_cap": 0.2
+    },
+    {
+      "id": "Unsecured_finance_co_deposit",
+      "yield": 0.125,
+      "wal": 30,
+      "liquidity": 0.5,
+      "haircut": 0.92,
+      "internal_cap": 0.05
+    }
+  ]
+}

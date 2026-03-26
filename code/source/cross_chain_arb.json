@@ -1,0 +1,34 @@
+[
+  {
+    "chain": "Ethereum",
+    "copw_reserve": 1850000,
+    "tcopw_reserve": 1804000,
+    "pool_mid_px": 0.9751,
+    "lp_fee_bps": 30,
+    "gas_usd": 35
+  },
+  {
+    "chain": "Base",
+    "copw_reserve": 2500000,
+    "tcopw_reserve": 2535000,
+    "pool_mid_px": 1.0140,
+    "lp_fee_bps": 18,
+    "gas_usd": 12
+  },
+  {
+    "chain": "Polygon",
+    "copw_reserve": 850000,
+    "tcopw_reserve": 833000,
+    "pool_mid_px": 0.9800,
+    "lp_fee_bps": 22,
+    "gas_usd": 9
+  },
+  {
+    "chain": "Solana",
+    "copw_reserve": 1600000,
+    "tcopw_reserve": 1648000,
+    "pool_mid_px": 1.0300,
+    "lp_fee_bps": 16,
+    "gas_usd": 11
+  }
+]

@@ -1,0 +1,22 @@
+Punto 1.
+
+TechnicalTest_Trader_MiguelManrique.ipynb
+
+
+Punto 2.2
+
+22linprogp_reserve_trust.py
+
+contiene el código para la optimización lineal.
+
+Punto 2.3 a
+
+23quadprog_cross_chain_arb.py
+
+contiene el código para la optimización cuadrática
+
+Punto 2.3 b
+
+23cross_chain_arb_algo.py
+
+contiene una propuesta de maquetación básica para la infraestructura de un algoritmo de abritrage, puede ser ejecutado desde una consola.
